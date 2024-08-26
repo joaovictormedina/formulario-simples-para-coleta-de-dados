@@ -1,6 +1,3 @@
-Aqui está o README formatado para o projeto `formulario-simples-para-coleta-de-dados`:
-
-```markdown
 # Formulário Simples para Coleta de Dados
 
 ## Descrição
